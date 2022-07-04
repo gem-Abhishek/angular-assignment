@@ -1,0 +1,64 @@
+[
+    {
+        "Sno":1,
+        "Name":"Abhishek Garg",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    },
+    {
+        "Sno":2,
+        "Name":"Shivan Tiwari",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    },{
+        "Sno":3,
+        "Name":"Rohan Kumar",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    },{
+        "Sno":4,
+        "Name":"Deepansh Sehgal",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    },{
+        "Sno":5,
+        "Name":"Ananya Sharma",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    },{
+        "Sno":6,
+        "Name":"Tarun Agarwal",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    },{
+        "Sno":7,
+        "Name":"Vaibhav Tiwari",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    },{
+        "Sno":8,
+        "Name":"Kajal Verma",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    },{
+        "Sno":9,
+        "Name":"Rocky",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    },{
+        "Sno":10,
+        "Name":"Raj Malhotra",
+        "Skills":"Angular/HTML/CSS/Javascript",
+        "Project Allocation":"No",
+        "Comment":"NA"
+    }
+]
